@@ -1,0 +1,4 @@
+# Interceptores HTTP
+
+- preHandle
+- postHandle
